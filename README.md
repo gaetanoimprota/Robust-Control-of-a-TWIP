@@ -3,4 +3,4 @@ Robust control of a Two-Wheeled Inverted Pendulum (TWIP). Features H-infinity lo
 
 ## Documentation
 For a detailed explanation of the mathematical model and codes, please refer to the technical report:
-* [Technical Documentation (PDF)](/Robust_Control_TWIP.pdf)
+* [Technical Documentation (PDF)](docs/Robust_Control_TWIP.pdf)
